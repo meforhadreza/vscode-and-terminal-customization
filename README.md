@@ -42,7 +42,7 @@ mkdir C:\Users\Reza\.config\ohmyposh
 
 ---
 
-# PowerShell Setup
+# PowerShell Setup (This process must be done seperatly from Powershell 7 and 5 profile)
 
 ## 3.1 Create PowerShell Profile
 
